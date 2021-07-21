@@ -12,5 +12,15 @@ SQLAlchemy==1.1.11
  3. Run *run.py*
  4. Demo will be live at http://localhost:5000/
 
-## License
-This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
+
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is yogesh
+bot : - Hello! your name has been stored. What is your age?
+user : hello
+bot : - Hi. How are you feeling today?
+user : i am 19 years old, am good
+bot : - you shall be called once the doctor is available. Do you want to book an appointment?
+user : i am good
+bot : - good to know. how may i assist you then?
+user : but i have some issues with my head
+bot : - symptom noted.
