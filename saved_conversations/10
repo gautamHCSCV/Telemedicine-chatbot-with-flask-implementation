@@ -1,0 +1,13 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : I am Gautam
+bot : - good to know. how may i assist you then?
+user : I am having headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : 1
+bot : - - are you online?
+user : yes
+bot : - Bye. Nice talking to you
+user : is any doctor availabel
+bot : - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+user : yes
+bot : - Bye. Nice talking to you
