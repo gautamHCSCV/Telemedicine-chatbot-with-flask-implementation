@@ -11,6 +11,8 @@ SQLAlchemy==1.1.11
  2. Run *train.py*
  3. Run *run.py*
  4. Demo will be live at http://localhost:5000/
+ 
+ ## Deployment on heroku: https://telemedicine--chatbot.herokuapp.com/
 
 **Demo**
 
