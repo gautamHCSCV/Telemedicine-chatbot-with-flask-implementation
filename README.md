@@ -20,7 +20,7 @@ A virtual enviroment for python 3.6 will get activated.
  3. Run *run.py*
  4. Demo will be live at http://localhost:5000/
  
- # Deployment on heroku: https://telemedicine--chatbot.herokuapp.com/
+ #### Deployment on heroku: https://telemedicine--chatbot.herokuapp.com/
 
 **Demo**
 
