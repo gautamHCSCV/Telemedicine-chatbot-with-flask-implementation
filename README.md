@@ -1,4 +1,4 @@
-Made a telemedicine chatbot to assist the doctors. The bot is trained to greet the patients, provide information about availability of the doctor. It helps to know the symptoms of the patient. The chatbot can easily be updated on updating the data files and running train.py files.
+Made a telemedicine chatbot to assist the doctors. The bot is trained to greet the patients, provide information about availability of the doctor. It helps to know the symptoms of the patient. The chatbot can easily be updated on updating the data files and running train.py file.
 
 # flask-chatbot
 Built on python 3.6
