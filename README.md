@@ -1,4 +1,4 @@
-Made a telemedicine chatbot to assist the doctors. The bot is trained to greet the patients, provide information about availability of the doctor. It helps to know the symptoms of the patient. The chatbot can easily be updated on updating the data files and running train.py file.
+Made a telemedicine chatbot to assist the doctors. The bot is trained to greet the patients, provide information about availability of the doctor and provide some basic home remedies. It helps to know the symptoms of the patient and the type of symptom he/she is experiencing. The chatbot can easily be updated on updating the data files and running train.py file.
 
 # flask-chatbot
 Built on python 3.6
@@ -7,10 +7,11 @@ chatterbot==0.8.4
 SQLAlchemy==1.1.11
 
 ## Virtual enviroment for python 3.6
-download env3.6.zip file
-unzip it
-run env3.6/Scripts/activate
-A virtual enviroment for python 3.6 will get activated.
+ Download env3.6.zip file
+ Install virtual enviroment
+ unzip it
+ run env3.6/Scripts/activate on command line
+ A virtual enviroment for python 3.6 will get activated.
 
 #### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
 
