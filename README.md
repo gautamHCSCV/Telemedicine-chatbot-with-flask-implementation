@@ -46,3 +46,10 @@ bot : - good to know. how may i assist you then?
 user : but i have some issues with my head
 
 bot : - symptom noted._
+
+Sources of data:
+1. Most of the data is self prepared.
+2. https://www.aplustopper.com/conversation-between-doctor-and-patient/
+3. https://www.peptalkindia.com/english-conversation-between-doctor-and-patient/
+  
+  Note: Patients are recommended to consult doctor before using measures suggested by the bot.
