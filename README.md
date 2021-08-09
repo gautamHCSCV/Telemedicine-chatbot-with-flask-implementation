@@ -7,10 +7,10 @@ chatterbot==0.8.4
 SQLAlchemy==1.1.11
 
 ## Virtual enviroment for python 3.6
- Download env3.6.zip file <br /> 
- Install virtual enviroment <br /> 
- Unzip the zipped file and locate in the working directory. <br /> 
- run _env3.6/Scripts/activate_ on command line <br /> 
+ 1. Download env3.6.zip file <br /> 
+ 2. Install virtual enviroment <br /> 
+ 3. Unzip the zipped file and locate in the working directory. <br /> 
+ 4. run _env3.6/Scripts/activate_ on command line <br /> 
  A virtual enviroment for python 3.6 will get activated. <br /> 
 
 #### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
