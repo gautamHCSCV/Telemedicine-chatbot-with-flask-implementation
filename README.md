@@ -7,11 +7,18 @@ chatterbot==0.8.4
 SQLAlchemy==1.1.11
 
 ## Virtual enviroment for python 3.6
- 1. Download env3.6.zip file <br /> 
- 2. Install virtual enviroment <br /> 
- 3. Unzip the zipped file and locate in the working directory. <br /> 
- 4. run _env3.6/Scripts/activate_ on command line <br /> 
- A virtual enviroment for python 3.6 will get activated. <br /> 
+https://stackoverflow.com/questions/52138280/easiest-way-to-use-python-3-6-and-3-7-on-same-computer
+
+Download the Python3.6 tgz file from the official website (eg. Python-3.6.6.tgz)
+Unpack it with tar -xvzf Python-3.6.6.tgz
+cd Python-3.6.6
+run ./configure
+run make altinstall to install it 
+You'll normally find your new python install under /usr/local/bin. Now you can create a new virtualenv specifying the python version to use with:
+
+virtualenv --python=python3.6 env3.6
+Get into the virtualenv running the command source env3.6/bin/activate.
+
 
 #### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
 
