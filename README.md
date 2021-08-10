@@ -15,14 +15,14 @@ To be run on python 3.6.7
 ## Virtual enviroment for python 3.6
 https://stackoverflow.com/questions/52138280/easiest-way-to-use-python-3-6-and-3-7-on-same-computer
  <br /> 
-Download the Python3.6 tgz file from the official website (eg. Python-3.6.6.tgz) <br /> 
-Unpack it with tar -xvzf Python-3.6.6.tgz <br /> 
-cd Python-3.6.6 <br /> 
-run ./configure <br /> 
-run make altinstall to install it  <br /> 
-You'll normally find your new python install under /usr/local/bin. Now you can create a new virtualenv specifying the python version to use with:
+1. Download the Python3.6 tgz file from the official website (eg. Python-3.6.6.tgz) <br /> 
+2. Unpack it with tar -xvzf Python-3.6.6.tgz <br /> 
+3. cd Python-3.6.6 <br /> 
+4. run ./configure <br /> 
+5. run make altinstall to install it  <br /> 
+6. You'll normally find your new python install under /usr/local/bin. Now you can create a new virtualenv specifying the python version to use with:
  <br /> 
-virtualenv --python=python3.6 env3.6 <br /> 
+7. virtualenv --python=python3.6 env3.6 <br /> 
 Get into the virtualenv running the command source env3.6/bin/activate. <br /> 
 
 
